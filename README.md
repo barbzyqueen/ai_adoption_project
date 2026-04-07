@@ -54,4 +54,4 @@ The dashboard not only tracks historical adoption but also provides a forward-lo
 
 > *(Add screenshots of your dashboard here)*
 
-![Dashboard Preview](your-image-file.png)
+![Dashboard Preview](image1.png)
